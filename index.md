@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Samurai71's blog!
 ---
